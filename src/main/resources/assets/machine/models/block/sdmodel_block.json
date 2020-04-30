@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "machine:blocks/sdmodel_block"
+  }
+}

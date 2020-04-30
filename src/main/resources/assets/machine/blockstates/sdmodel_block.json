@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "machine:block/sdmodel_block" }
+  }
+}
